@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[imr:home|Door43 (imr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-imr|d43-imr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-imr/archive/master.zip|d43-imr.zip]]
+
+**Recent Changes**
+{{changes>ns = imr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/imr|Ethnologue data]]
+
